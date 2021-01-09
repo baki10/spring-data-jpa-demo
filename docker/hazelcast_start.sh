@@ -1,0 +1,1 @@
+docker run --rm -d --name my-hazelcast -p 5701:5701 hazelcast/hazelcast
